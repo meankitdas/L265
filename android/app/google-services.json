@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "62842278797",
+    "project_id": "l265-9a75e",
+    "storage_bucket": "l265-9a75e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62842278797:android:b62af39901152da73d63c4",
+        "android_client_info": {
+          "package_name": "com.l265"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62842278797-cjrsb7s7minlus2e25ets8ee7f9lqe94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHzudaadCtSRD1dULq0mzDaJDm7u542Kc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62842278797-cjrsb7s7minlus2e25ets8ee7f9lqe94.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62842278797:android:b24ac42f2295bc0f3d63c4",
+        "android_client_info": {
+          "package_name": "com.nawana.L265"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62842278797-cjrsb7s7minlus2e25ets8ee7f9lqe94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHzudaadCtSRD1dULq0mzDaJDm7u542Kc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62842278797-cjrsb7s7minlus2e25ets8ee7f9lqe94.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
